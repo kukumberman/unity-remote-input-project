@@ -17,3 +17,6 @@ I spent about **26** hours working on this project (including research and devel
 
 ### Showcase
 <img src="./gh-readme/showcase.gif" />
+
+Implementation in other [project](https://dimapepino.itch.io/flappy-bird-pipe-builder) (just for testing)
+<img src="./gh-readme/flappy-bird.gif" />
